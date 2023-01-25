@@ -20,6 +20,7 @@ In this folder, run the index.html file.
 the network runs properly. There are two buttons you can use:
 
 	• Check again to verify whether your configuration was correct or not.
+	
 	• Get my config to download your configuration whenever you need to. It will beuseful to turn in your assignment.
 
 * At the bottom of the page, you will see logs. They can be helpful to understand why
